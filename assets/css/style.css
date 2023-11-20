@@ -282,8 +282,8 @@ section {
     #home .my-wrapper .name-box {
       display: inline-block;
       margin: 1.25rem 0;
-      width: 50%;
-      max-width: 50%; }
+      width: 75%;
+      max-width: 75%; }
       @media screen and (max-width: 575.98px) {
         #home .my-wrapper .name-box {
           width: 100%;
